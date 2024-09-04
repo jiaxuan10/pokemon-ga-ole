@@ -1,3 +1,5 @@
+URL to demonstration video https://youtu.be/YE5vOR2VXhQ?si=G4kD8SXq0guB-71k
+
 Inheritance 
 
 The class hierarchy in the program is structured with a base class, 'Pokemon,' which is inherited by specialized subclasses such as 'ElectricPokemon,' 'FirePokemon,' and 'WaterPokemon.' These subclasses inherit both properties and methods from the 'Pokémon' class. Subclasses, like Water Pokémon, use extends to inherit and enhance features from the parent Pokémon class. The super keyword in subclass constructors ensures proper initialization by explicitly invoking the superclass constructor. Notably, they override the 'attack' method and use the "instance of" comparison to determine the target class. 
@@ -97,5 +99,4 @@ It dynamically adjusts from the base attack value, modified by comparing it with
 
  
 
-3. URL to demonstration video 
-https://youtu.be/YE5vOR2VXhQ?si=G4kD8SXq0guB-71k 
+
